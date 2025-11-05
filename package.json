@@ -1,0 +1,23 @@
+{
+  "name": "discord-boss-timer-bot",
+  "version": "2.0.0",
+  "description": "A Discord bot that manages boss respawn timers with persistent storage",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "timer",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
